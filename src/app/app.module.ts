@@ -9,6 +9,7 @@ import { HomePageComponent } from './Pages/home-page/home-page.component';
   declarations: [
     AppComponent,
     HomePageComponent,
+
   ],
   imports: [
     CoreModule,
